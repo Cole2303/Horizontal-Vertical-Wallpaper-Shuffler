@@ -7,7 +7,7 @@ from screeninfo import get_monitors
 import win32api
 import win32con
 
-# ENTER PATH HERE
+# ENTER CONFIG DETAILS HERE
 LANDSCAPE_FOLDER = r"C:\Users\
 PORTRAIT_FOLDER = r"C:\Users\
 #in seconds, 30 minute intervals (Adjustable)
