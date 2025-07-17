@@ -41,7 +41,7 @@ Run "python wallpaper_manager.py" in corresponding directory in command line
      -Arguments: "C:\Path\To\wallpaper_changer.pyw"
   -Enable "Run with highest privileges"
 
-# Alternative
+### Alternative
 1. Windows Key + R to open run
 2. Enter "shell:startup"
 3. Enter a shortcut to the program (optimal) or the program itself
